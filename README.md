@@ -121,9 +121,9 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 
 ## Resources
 <a name="resources"></a>
-[Commitmas 2: A Month of Merriment](http://bit.ly/Commitmas2)
-[vBrownBag DevOps Series](http://vbrownbag.com/vbrownbag-technology-series/vbrownbag-devops-series/)
-[The Git Book](https://git-scm.com/book/en/v2)
+[Commitmas 2: A Month of Merriment](http://bit.ly/Commitmas2)  
+[vBrownBag DevOps Series](http://vbrownbag.com/vbrownbag-technology-series/vbrownbag-devops-series/)  
+[The Git Book](https://git-scm.com/book/en/v2)  
 
 ## Projects
 <a name="projects"></a>
