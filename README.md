@@ -113,7 +113,7 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 <a name="teams"></a>
 **Team PowerShell** - Something something powershell with [Kyle Ruddy](https://twitter.com/kmruddy)
 
-**Team Ansible** - Something something Ansible with [Larry Smith](https://twitter.com/larrysmithjr)
+**Team Ansible** - Something something Ansible with [Larry Smith](https://twitter.com/mrlesmithjr)
 
 **Team Puppet** - Something something Puppet with [Rob Nelson](https://twitter.com/rnelson0)
 
