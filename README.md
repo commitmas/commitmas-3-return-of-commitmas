@@ -25,13 +25,13 @@ Tis the holiday season again, where we relax at home, eat loads of good food and
 
 This year we are focused on working together, whether you are contributing to an Open Source project or scripts at work. Working collaboratively together requires communication, coordination, and of course some practice with forking, branching, merging, and pull requests! 
 
-We have organized 4 groups, each with a "lead" to coordinate the efforts of contributing to the project or repository. There are different projects based upon different technologies, whether you are an experienced practitioner of PowerShell, or want to learn Ansible, there is a project for you to join!
+We have organized 5 groups, each with a "lead" to coordinate the efforts of contributing to the project or repository. There are different projects based upon different technologies, whether you are an experienced practitioner of PowerShell, or want to learn Ansible, there is a project for you to join!
 
 The rules:
 
 1. Schedule time in your calendar for gitting in shape **everyday** for 30 days between December 1st - January 1st
 2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), or [Expert](#expert)
-5. Choose your team: [PowerShell](#powershell), [Ansible](#ansible), [Puppet](#puppet), or [Python](#python)
+5. Choose your team: [Ansible](#ansible), [Chef](#chef), [PowerShell](#powershell), [Puppet](#puppet), or [Python](#python)
 3. Follow the directions for your team and contribute to making something awesome!
 4. Fork and favorite this repository to show that you're participating!
 
@@ -111,12 +111,15 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 
 ## Teams
 <a name="teams"></a>
-**Team PowerShell** - Something something powershell with [Kyle Ruddy](https://twitter.com/kmruddy)
-
+<a name="ansible"></a>
 **Team Ansible** - Something something Ansible with [Larry Smith](https://twitter.com/mrlesmithjr)
-
+<a name="chef"></a>
+**Team Chef** - Something something Chef with [Jesse Anderson](https://twitter.com/sockeyes51)
+<a name="powershell"></a>
+**Team PowerShell** - Something something powershell with [Kyle Ruddy](https://twitter.com/kmruddy)
+<a name="puppet"></a>
 **Team Puppet** - Something something Puppet with [Rob Nelson](https://twitter.com/rnelson0)
-
+<a name="python"></a>
 **Team Python** - Something something Python with [Matt Oswalt](https://twitter.com/mierdin)
 
 ## Resources
