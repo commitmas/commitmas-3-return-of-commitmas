@@ -35,7 +35,7 @@ The rules:
 3. Follow the directions for your team and contribute to making something awesome!
 4. Fork and favorite this repository to show that you're participating!
 
-That's it! If you get stuck or just want to chat with others, be sure to [tweet with the hashtag `#vBrownBag`](https://twitter.com/hashtag/vbrownbag) or on [the Geek Speak Slack Channel](http://geekspeak.heroku.com) in the `#learn-github` channel. We'll be out there to help.
+That's it! If you get stuck or just want to chat with others, be sure to [tweet with the hashtag `#vBrownBag`](https://twitter.com/hashtag/vbrownbag) or on [the Geek Speak Slack Channel]( https://commitmas-invite.herokuapp.com ) in the `#learn-github` channel. We'll be out there to help.
 
 *Note:* The Slack link doesn't always load due to using Heroku free tier. If you want a faster response, ping [Rob on Twitter](https://twitter.com/rnelson0).
 
