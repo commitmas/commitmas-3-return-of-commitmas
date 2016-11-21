@@ -47,7 +47,7 @@ Don't worry about getting stuck, or being rusty, we have all of last years recor
 - **Wednesday 11/30** -    Transitioning into contributing to Open Source [TBD](https://twitter.com/)
 - **Thursday 12/1** - Lessons learned from writing the DevOps Handbook with [Gene Kim](https://twitter.com/realgenekim)
 - **Wednesday 12/7** -  Forking public work, committing to it, and managing the PR process with [TBD](https://twitter.com/)
-- **Wednesday 12/14** -   Curating a group of people that build tools together with [TBD](https://twitter.com/) 
+- **Wednesday 12/14** -   Curating a group of people that build tools together with [Matthew Brender](https://twitter.com/mjbrender:) 
 - **Wednesday 12/21** -     DevOps Discussion with [John Hildebrand](https://twitter.com/snoopj123)
 
 # Commit to Your Project
