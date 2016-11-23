@@ -46,7 +46,7 @@ Don't worry about getting stuck, or being rusty, we have all of last years recor
 ## vBrownBag Commitmas Schedule
 - **Wednesday 11/30** - Git'ing Ops in shape for DevOps with [Taylor Riggan](https://twitter.com/triggan)
 - **Thursday 12/1** - Lessons learned from writing the DevOps Handbook with [Gene Kim](https://twitter.com/realgenekim)
-- **Wednesday 12/7** - Forking public work, committing to it, and managing the PR process with [Safia Abdalla](https://twitter.com/captainsafia)
+- **Wednesday 12/7** - Forking public work, committing to it, and managing the PR process with [Safia Abdalla](https://twitter.com/captainsafia) **8P CST / 9P EST**
 - **Wednesday 12/14** - Curating a group of people that build tools together with [Matthew Brender](https://twitter.com/mjbrender:) 
 - **Wednesday 12/21** - DevOps Discussion with [John Hildebrand](https://twitter.com/snoopj123)
 
