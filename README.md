@@ -44,7 +44,7 @@ We'll have regularly scheduled [vBrownBag](http://vbrownbag.com) podcasts that f
 Don't worry about getting stuck, or being rusty, we have all of last years recordings available on YouTube in our [Commitmas Playlist] (https://www.youtube.com/playlist?list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t) and in [iTunes](https://itunes.apple.com/us/podcast/professionalvmware-vbrownbag/id468638808?mt=2)
 
 ## vBrownBag Commitmas Schedule
-- **Wednesday 11/30** -    Transitioning into contributing to Open Source [TBD](https://twitter.com/)
+- **Wednesday 11/30** -    Git'ing Ops in shape for DevOps with [Taylor Riggan](https://twitter.com/triggan)
 - **Thursday 12/1** - Lessons learned from writing the DevOps Handbook with [Gene Kim](https://twitter.com/realgenekim)
 - **Wednesday 12/7** -  Forking public work, committing to it, and managing the PR process with [TBD](https://twitter.com/)
 - **Wednesday 12/14** -   Curating a group of people that build tools together with [Matthew Brender](https://twitter.com/mjbrender:) 
