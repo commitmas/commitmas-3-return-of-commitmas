@@ -105,7 +105,7 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 
 **Your challenge**:
 * Open a new Pull Request on open source repositories you use **every single day** for the 30 days of Commitmas! Don't forget to help out your beginner and intermediate level friends!
-
+* Find stalled PRs, cherry-pick the valuable commits, fix any failing tests or merge conflicts, and provide a new PR.
 
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
