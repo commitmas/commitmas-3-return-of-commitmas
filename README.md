@@ -114,7 +114,7 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 <a name="teams"></a>
 
 <a name="ansible"></a>
-**Team Ansible** - Something something Ansible with [Larry Smith](https://twitter.com/mrlesmithjr)
+**Team Ansible** - [30 Days of Ansible Roles](https://github.com/mrlesmithjr/commitmas-ansible) with [Larry Smith](https://twitter.com/mrlesmithjr)
 
 <a name="chef"></a>
 **Team Chef** - Something something Chef with [Jesse Anderson](https://twitter.com/sockeyes51)
