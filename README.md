@@ -126,7 +126,7 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 **Team Puppet** - Something something Puppet with [Rob Nelson](https://twitter.com/rnelson0)
 
 <a name="python"></a>
-**Team Python** - Something something Python with [Matt Oswalt](https://twitter.com/mierdin)
+**Team Python** - [pybluedot](https://github.com/commitmas/pybluedot), a Python project exploring NASA's public APIs with [Matt Oswalt](https://twitter.com/mierdin)
 
 ## Resources
 <a name="resources"></a>
