@@ -125,7 +125,12 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 **Team PowerShell** - Something something powershell with [Kyle Ruddy](https://twitter.com/kmruddy)
 
 <a name="puppet"></a>
-**Team Puppet** - Something something Puppet with [Rob Nelson](https://twitter.com/rnelson0)
+**Team Puppet**
+* Find some Puppet tickets that meet your skill and interest levels within Puppet itself or in Puppet modules.
+ * A curated set of tickets maintained by [Vox Pupuli](https://voxpupuli.org/) can be found [here](https://waffle.io/commitmas/return-of-commitmas), organized by skill and type.
+* Join the [Puppet Community Slack](https://puppetcommunity.slack.com/) for assistance with Puppet and Modules.
+* Feel free to participate in the [Puppet Community Hack Day](https://www.eventbrite.com/e/online-puppet-community-hack-day-december-2016-registration-28614705354) on December 13th!
+* Contact [Rob Nelson](https://twitter.com/rnelson0) if you have any questions.
 
 <a name="python"></a>
 **Team Python** - [pybluedot](https://github.com/commitmas/pybluedot), a Python project exploring NASA's public APIs with [Matt Oswalt](https://twitter.com/mierdin)
