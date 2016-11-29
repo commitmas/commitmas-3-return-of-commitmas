@@ -50,6 +50,8 @@ Don't worry about getting stuck, or being rusty, we have all of last years recor
 - **Wednesday 12/14** - Curating a group of people that build tools together with [Matthew Brender](https://twitter.com/mjbrender:) 
 - **Wednesday 12/21** - DevOps Discussion with [John Hildebrand](https://twitter.com/snoopj123)
 
+Registration for the Commitmas online webinars may be completed through the [US #vBrownBag](https://attendee.gotowebinar.com/register/4381236442732324866) page.
+
 # Commit to Your Project
 We all have different level of expertise when it comes to GitHub. Here are a few options based on your comfort level. Remember: **focus on learning how git works** and let the other topics follow.
 
