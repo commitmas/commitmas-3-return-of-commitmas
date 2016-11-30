@@ -119,7 +119,7 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 **Team Ansible** - [30 Days of Ansible Roles](https://github.com/mrlesmithjr/commitmas-ansible) with [Larry Smith](https://twitter.com/mrlesmithjr)
 
 <a name="chef"></a>
-**Team Chef** - Something something Chef with [Jesse Anderson](https://twitter.com/sockeyes51)
+**Team Chef** - [Deploying LAMP Stack to Docker Containers with Chef](https://github.com/jessecanderson/commitmas-2016-chef-project) [Jesse Anderson](https://twitter.com/sockeyes51)
 
 <a name="powershell"></a>
 **Team PowerShell** - Something something powershell with [Kyle Ruddy](https://twitter.com/kmruddy)
