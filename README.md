@@ -122,7 +122,13 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 **Team Chef** - [Deploying LAMP Stack to Docker Containers with Chef](https://github.com/jessecanderson/commitmas-2016-chef-project) [Jesse Anderson](https://twitter.com/sockeyes51)
 
 <a name="powershell"></a>
-**Team PowerShell** - Something something powershell with [Kyle Ruddy](https://twitter.com/kmruddy)
+**Team PowerShell** - with [Kyle Ruddy](https://twitter.com/kmruddy)
+* Fork the [PowerShell_Team repo](https://github.com/commitmas/return-of-commitmas/tree/master/PowerShell_Team) and make contributions. 
+* Fork the [PowerCLI Community repo](https://github.com/vmware/PowerCLI-Example-Scripts) and make contributions.
+* Join some of the available Slack Teams, ask for help, offer help, and be a generally good community member!
+ * [Commitmas Slack](https://commitmas-invite.herokuapp.com/) and then join the PowerShell Team channel
+ * [PowerShell User Group Slack](http://slack.poshcode.org/)
+ * [VMware Code Slack](https://code.vmware.com/slack/) and join the PowerCLI channel
 
 <a name="puppet"></a>
 **Team Puppet**
@@ -150,3 +156,4 @@ These projects are soliciting pull requests through Commitmas and will be kind t
 * [Transparent Travel by @mjbrender](https://github.com/mjbrender/transparent-travel) - A markdown-only repository to record where I'm flying and where I'd like to fly next.
 * [Anything Puppet by @rnelson0](https://github.com/rnelson0?tab=repositories) - A growing collection of tools written for Puppet
 * [Anything Ansible by @mrlesmithjr](https://github.com/mrlesmithjr?tab=repositories) - A growing collection of Ansible-based tools
+* [Anything PowerCLI](https://github.com/vmware/PowerCLI-Example-Scripts) - A growing collection of community sourced PowerShell and PowerCLI based tools for use within vSphere environments
