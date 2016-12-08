@@ -40,7 +40,7 @@ Registration for the Commitmas online webinars may be completed through the [US 
 
 Follow these steps to play along with one of the team leads!
 
-### Team Ansible with [Larry Smith](https://twitter.com/mrlesmithjr)
+## Team Ansible with [Larry Smith](https://twitter.com/mrlesmithjr)
 
 * [30 Days of Ansible Roles](https://github.com/mrlesmithjr/commitmas-ansible)
 
