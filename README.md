@@ -24,12 +24,15 @@ This year we are focused on working together, whether you are contributing to an
 
 ## vBrownBag Schedule
 
+## vBrownBag Commitmas Schedule
+
 - **Wednesday 11/30** - Git'ing Ops in shape for DevOps with [Taylor Riggan](https://twitter.com/triggan)
 - **Monday 12/5** - Lessons learned from writing the DevOps Handbook with [Gene Kim](https://twitter.com/realgenekim)
-- **Wednesday 12/7** at **8P CST/9P EST** - Forking public work, committing to it, and managing the PR process with [Safia Abdalla](https://twitter.com/captainsafia)
-- **Wednesday 12/14** - Curating a group of people that build tools together with [Matthew Brender](https://twitter.com/mjbrender:)
-- **Tuesday 12/21** - Writing a good README.md for your Git repo [Mike Marseglia](https://twitter.com/mmars)
+- **Wednesday 12/7** - Forking public work, committing to it, and managing the PR process with [Safia Abdalla](https://twitter.com/captainsafia) **8P CST / 9P EST**
+- **Wednesday 12/14** - Curating a group of people that build tools together with [Matthew Brender](https://twitter.com/mjbrender) 
+- **Tuesday 12/20** - Gitting out of a mess [Katie Sylor-Miller](https://twitter.com/ksylor)
 - **Wednesday 12/21** - DevOps Discussion with [John Hildebrand](https://twitter.com/snoopj123)
+- **Thursday 12/22** - Writing a good README.md for your Git repo [Mike Marseglia](https://twitter.com/mmars)
 
 Registration for the Commitmas online webinars may be completed through the [US #vBrownBag](https://attendee.gotowebinar.com/register/4381236442732324866) page.
 
@@ -85,12 +88,9 @@ We'll have regularly scheduled [vBrownBag](http://vbrownbag.com) podcasts that f
 
 Don't worry about getting stuck, or being rusty, we have all of last years recordings available on YouTube in our [Commitmas Playlist] (https://www.youtube.com/playlist?list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t) and in [iTunes](https://itunes.apple.com/us/podcast/professionalvmware-vbrownbag/id468638808?mt=2)
 
-## Commit to Your Skill Level
-
 We all have different level of expertise when it comes to GitHub. Here are a few options based on your comfort level. Remember: **focus on learning how git works** and let the other topics follow.
 
 ### Beginner
-<a name="beginner"></a>
 *You're a beginner if:* You're new enough to git that just the act of using it daily will be a lot of learning.
 
 **Setup**:
@@ -114,7 +114,6 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 
 
 ### Intermediate
-<a name="intermediate"></a>
 *You're at an intermediate level if:* You're comfortable with the basics of using git, have lurked around on GitHub but never contributed to a project.
 
 **Setup**:
@@ -133,7 +132,6 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 * Remember, *documentation is code too (especially when using Markdown)!* Find a project you want to support by improving documentation. Fork it and then make your contributions during this challenge.
 
 ### Expert
-<a name="expert"></a>
 *You're an expert if:* You've managed multiple contributor repositories before, have more than 5 pull request accepted, and want to join in Commitmas to really push yourself.
 
 **Setup**:
@@ -147,7 +145,6 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
 
 ## Resources
-<a name="resources"></a>
 Commitmas years past:
 
 * [12 Days of Commitmas](https://github.com/commitmas/12-days-of-commitmas)
