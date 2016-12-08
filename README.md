@@ -24,8 +24,6 @@ This year we are focused on working together, whether you are contributing to an
 
 ## vBrownBag Schedule
 
-## vBrownBag Commitmas Schedule
-
 - **Wednesday 11/30** - Git'ing Ops in shape for DevOps with [Taylor Riggan](https://twitter.com/triggan)
 - **Monday 12/5** - Lessons learned from writing the DevOps Handbook with [Gene Kim](https://twitter.com/realgenekim)
 - **Wednesday 12/7** - Forking public work, committing to it, and managing the PR process with [Safia Abdalla](https://twitter.com/captainsafia)
